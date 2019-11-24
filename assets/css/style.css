@@ -31,6 +31,21 @@ body{
     height: 200px;
     margin:20px;
 }
+.portfolioImg{
+    height: 200px;
+}
+.img-text{
+    z-index: 2;
+    position: relative;
+    bottom: 40px;
+    background-color: #4aaaa5;
+    width: 355.5px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    text-align: center;
+    color: #ffffff;
+    
+}
 /* footer text style */
 h5{
     color: #ccc1c1;
